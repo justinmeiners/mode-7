@@ -5,6 +5,7 @@ This is an old project I made to experiment with [Mode-7](https://en.wikipedia.o
 Here are some resources I learned from:
 
 [Tonc GBA Programming](http://www.coranac.com/tonc/text/toc.htm)
+[SNES Mode 7 Effect](http://gamedev.stackexchange.com/questions/24957/doing-an-snes-mode-7-affine-transform-effect-in-pygame)
 
 ![Mode7 Screenshot](screenshots/1.png)
 
